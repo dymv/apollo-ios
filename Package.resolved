@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "SQLite.swift",
-        "repositoryURL": "https://github.com/stephencelis/SQLite.swift.git",
+        "repositoryURL": "https://github.com/dymv/SQLite.swift.git",
         "state": {
-          "branch": null,
-          "revision": "5f5ad81ac0d0a0f3e56e39e646e8423c617df523",
-          "version": "0.13.2"
+          "branch": "with-removed-playgrounds",
+          "revision": "6047fa4bfa8e2259035cc5214a0c950a2c30ff73",
+          "version": null
         }
       }
     ]

@@ -37,8 +37,8 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/stephencelis/SQLite.swift.git",
-      .upToNextMinor(from: "0.13.1"))
+      url: "https://github.com/dymv/SQLite.swift.git",
+      .revision("with-removed-playgrounds"))
   ],
   targets: [
     .target(
